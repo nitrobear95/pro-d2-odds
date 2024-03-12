@@ -1,0 +1,241 @@
+Round,Home team,Home score,Away score,Away team,Home bonus,Away bonus
+1,US Carcassonnaise,38,52,LOU Rugby,0,1
+1,AS Béziers Hérault,20,19,Tarbes,0,1
+1,Bourgoin,18,13,Bourg-en-Bresse,0,1
+1,Narbonne,34,23,Stade Aurillacois,0,0
+1,Section Paloise,27,12,Auch,1,0
+1,Albi,12,17,SU Agen,1,0
+1,US Dax,18,15,Colomiers Rugby,0,1
+1,Stade Montois Rugby,31,28,Stade Rochelais,0,1
+2,SU Agen,14,9,Stade Montois Rugby,0,1
+2,Stade Rochelais,41,9,Albi,1,0
+2,Stade Aurillacois,33,12,US Dax,1,0
+2,Tarbes,20,15,US Carcassonnaise,0,1
+2,Colomiers Rugby,18,12,Bourgoin,0,0
+2,Auch,23,16,AS Béziers Hérault,0,0
+2,Bourg-en-Bresse,21,25,Section Paloise,1,0
+2,LOU Rugby,25,6,Narbonne,0,0
+3,AS Béziers Hérault,30,24,SU Agen,0,0
+3,Bourgoin,38,17,Stade Aurillacois,0,0
+3,Albi,10,30,LOU Rugby,0,0
+3,Stade Montois Rugby,24,33,Colomiers Rugby,0,0
+3,US Carcassonnaise,30,27,Auch,0,1
+3,Stade Rochelais,23,10,US Dax,0,0
+3,Bourg-en-Bresse,23,16,Tarbes,0,0
+3,Section Paloise,25,15,Narbonne,0,0
+4,Auch,13,17,Stade Rochelais,1,0
+4,Narbonne,19,13,Stade Montois Rugby,0,0
+4,Stade Aurillacois,34,7,Bourg-en-Bresse,1,0
+4,Tarbes,42,19,Albi,1,0
+4,Colomiers Rugby,29,13,US Carcassonnaise,0,0
+4,US Dax,27,13,AS Béziers Hérault,0,0
+4,LOU Rugby,39,7,Section Paloise,1,0
+4,SU Agen,39,12,Bourgoin,1,0
+5,Albi,21,19,Colomiers Rugby,0,1
+5,SU Agen,51,6,Narbonne,1,0
+5,Stade Montois Rugby,33,10,Auch,1,0
+5,US Carcassonnaise,23,25,Stade Aurillacois,1,0
+5,AS Béziers Hérault,12,9,LOU Rugby,0,1
+5,Bourgoin,22,9,Tarbes,1,0
+5,Bourg-en-Bresse,29,11,US Dax,0,0
+5,Section Paloise,18,19,Stade Rochelais,1,0
+6,Auch,22,17,SU Agen,0,1
+6,Narbonne,36,26,Bourg-en-Bresse,1,0
+6,Stade Aurillacois,30,19,Albi,0,0
+6,Tarbes,9,12,Section Paloise,1,0
+6,Colomiers Rugby,19,12,AS Béziers Hérault,0,0
+6,US Dax,25,25,Bourgoin,0,0
+6,LOU Rugby,34,17,Stade Montois Rugby,0,0
+6,Stade Rochelais,22,15,US Carcassonnaise,0,0
+7,AS Béziers Hérault,19,20,Section Paloise,1,0
+7,Bourgoin,16,16,Stade Rochelais,0,0
+7,Auch,13,21,Stade Aurillacois,0,0
+7,SU Agen,36,22,Tarbes,1,0
+7,US Carcassonnaise,19,13,Stade Montois Rugby,0,0
+7,US Dax,18,20,Narbonne,1,0
+7,Bourg-en-Bresse,22,23,Albi,1,0
+7,Colomiers Rugby,23,24,LOU Rugby,1,0
+8,Stade Rochelais,37,10,Bourg-en-Bresse,1,0
+8,Section Paloise,21,15,US Dax,0,0
+8,Albi,33,15,AS Béziers Hérault,0,0
+8,Stade Aurillacois,25,21,SU Agen,0,1
+8,Stade Montois Rugby,16,12,Bourgoin,0,1
+8,US Carcassonnaise,13,23,Narbonne,0,0
+8,LOU Rugby,40,12,Auch,1,0
+8,Tarbes,20,15,Colomiers Rugby,0,1
+9,Bourgoin,33,12,Section Paloise,1,0
+9,Narbonne,19,19,Tarbes,0,0
+9,SU Agen,41,13,US Carcassonnaise,1,0
+9,Colomiers Rugby,29,6,Auch,0,0
+9,US Dax,22,8,Albi,0,0
+9,Stade Aurillacois,9,11,LOU Rugby,1,0
+9,Bourg-en-Bresse,19,19,Stade Montois Rugby,0,0
+9,AS Béziers Hérault,18,20,Stade Rochelais,1,0
+10,Section Paloise,12,11,SU Agen,0,1
+10,Stade Rochelais,37,13,Colomiers Rugby,1,0
+10,Auch,16,11,Bourg-en-Bresse,0,1
+10,Stade Montois Rugby,11,11,AS Béziers Hérault,0,0
+10,Tarbes,43,14,Stade Aurillacois,1,0
+10,US Carcassonnaise,18,16,US Dax,0,1
+10,Albi,28,24,Narbonne,0,1
+10,LOU Rugby,22,6,Bourgoin,1,0
+11,AS Béziers Hérault,20,23,US Carcassonnaise,1,0
+11,Bourgoin,32,6,Auch,1,0
+11,SU Agen,36,14,Colomiers Rugby,0,0
+11,US Dax,26,15,Tarbes,0,0
+11,Albi,19,20,Section Paloise,1,0
+11,Bourg-en-Bresse,24,27,LOU Rugby,1,1
+11,Stade Aurillacois,42,12,Stade Montois Rugby,1,0
+11,Narbonne,25,17,Stade Rochelais,0,0
+12,Stade Rochelais,17,25,SU Agen,0,0
+12,AS Béziers Hérault,25,18,Bourg-en-Bresse,0,0
+12,Auch,29,29,Albi,0,0
+12,LOU Rugby,31,8,US Dax,1,0
+12,Stade Montois Rugby,21,15,Tarbes,0,0
+12,US Carcassonnaise,16,18,Bourgoin,1,0
+12,Colomiers Rugby,32,16,Narbonne,0,0
+12,Section Paloise,20,9,Stade Aurillacois,0,0
+13,Section Paloise,38,7,US Carcassonnaise,1,0
+13,Bourgoin,19,13,AS Béziers Hérault,0,0
+13,Narbonne,59,0,Auch,1,0
+13,Stade Aurillacois,9,16,Stade Rochelais,0,0
+13,Tarbes,37,10,LOU Rugby,1,0
+13,Bourg-en-Bresse,12,15,Colomiers Rugby,1,0
+13,Albi,25,29,Stade Montois Rugby,1,0
+13,US Dax,23,18,SU Agen,0,1
+14,AS Béziers Hérault,16,15,Narbonne,0,1
+14,Bourgoin,9,12,Albi,1,0
+14,Auch,16,16,US Dax,0,0
+14,Stade Montois Rugby,12,12,Section Paloise,0,0
+14,US Carcassonnaise,17,19,Bourg-en-Bresse,1,0
+14,Colomiers Rugby,50,3,Stade Aurillacois,1,0
+14,SU Agen,20,19,LOU Rugby,0,1
+14,Stade Rochelais,18,3,Tarbes,0,0
+15,Section Paloise,16,0,Colomiers Rugby,0,0
+15,Narbonne,39,9,Bourgoin,1,0
+15,Albi,24,13,US Carcassonnaise,0,0
+15,Stade Aurillacois,30,24,AS Béziers Hérault,0,0
+15,Bourg-en-Bresse,21,37,SU Agen,0,0
+15,LOU Rugby,25,14,Stade Rochelais,0,0
+15,Tarbes,38,9,Auch,1,0
+15,US Dax,18,15,Stade Montois Rugby,0,1
+16,Auch,12,9,Section Paloise,0,1
+16,Stade Aurillacois,29,32,Narbonne,1,0
+16,Tarbes,23,17,AS Béziers Hérault,0,0
+16,Bourg-en-Bresse,20,13,Bourgoin,0,0
+16,LOU Rugby,35,10,US Carcassonnaise,1,0
+16,Colomiers Rugby,20,3,US Dax,0,0
+16,Stade Rochelais,32,16,Stade Montois Rugby,0,0
+16,SU Agen,28,17,Albi,0,0
+17,AS Béziers Hérault,22,12,Auch,1,0
+17,Section Paloise,34,15,Bourg-en-Bresse,1,0
+17,Albi,12,25,Stade Rochelais,0,0
+17,Stade Montois Rugby,9,12,SU Agen,1,0
+17,US Carcassonnaise,26,31,Tarbes,1,0
+17,US Dax,30,16,Stade Aurillacois,0,0
+17,Bourgoin,18,19,Colomiers Rugby,1,0
+17,Narbonne,22,6,LOU Rugby,0,0
+18,LOU Rugby,32,25,Albi,0,0
+18,Auch,31,13,US Carcassonnaise,1,0
+18,SU Agen,28,16,AS Béziers Hérault,0,0
+18,Stade Aurillacois,19,6,Bourgoin,0,0
+18,Tarbes,14,9,Bourg-en-Bresse,0,1
+18,Narbonne,25,19,Section Paloise,0,0
+18,Colomiers Rugby,18,11,Stade Montois Rugby,0,0
+18,US Dax,12,9,Stade Rochelais,0,1
+19,Bourgoin,12,6,SU Agen,0,0
+19,Stade Rochelais,17,6,Auch,0,0
+19,AS Béziers Hérault,12,10,US Dax,0,1
+19,Albi,14,26,Tarbes,0,0
+19,Stade Montois Rugby,15,10,Narbonne,0,1
+19,US Carcassonnaise,19,12,Colomiers Rugby,0,0
+19,Bourg-en-Bresse,35,12,Stade Aurillacois,0,0
+19,Section Paloise,19,22,LOU Rugby,1,0
+20,Stade Rochelais,28,23,Section Paloise,0,1
+20,Auch,0,19,Stade Montois Rugby,0,0
+20,Stade Aurillacois,18,12,US Carcassonnaise,0,0
+20,Tarbes,18,16,Bourgoin,0,1
+20,Colomiers Rugby,6,6,Albi,0,0
+20,Narbonne,33,24,SU Agen,0,0
+20,LOU Rugby,52,5,AS Béziers Hérault,1,0
+20,US Dax,23,20,Bourg-en-Bresse,0,1
+21,Stade Montois Rugby,14,21,LOU Rugby,0,0
+21,AS Béziers Hérault,22,21,Colomiers Rugby,0,1
+21,Albi,30,29,Stade Aurillacois,0,1
+21,SU Agen,44,32,Auch,0,0
+21,Bourgoin,37,3,US Dax,1,0
+21,Bourg-en-Bresse,12,38,Narbonne,0,1
+21,Section Paloise,37,10,Tarbes,1,0
+21,US Carcassonnaise,14,34,Stade Rochelais,0,1
+22,Stade Rochelais,29,24,Bourgoin,0,1
+22,Albi,31,24,Bourg-en-Bresse,0,0
+22,Stade Aurillacois,29,6,Auch,1,0
+22,Stade Montois Rugby,18,12,US Carcassonnaise,0,0
+22,LOU Rugby,27,10,Colomiers Rugby,1,0
+22,Narbonne,64,20,US Dax,1,0
+22,Section Paloise,41,7,AS Béziers Hérault,1,0
+22,Tarbes,21,12,SU Agen,0,0
+23,AS Béziers Hérault,28,8,Albi,1,0
+23,Bourgoin,37,31,Stade Montois Rugby,0,0
+23,Narbonne,56,10,US Carcassonnaise,1,0
+23,SU Agen,27,21,Stade Aurillacois,0,0
+23,Bourg-en-Bresse,9,23,Stade Rochelais,0,1
+23,Colomiers Rugby,9,19,Tarbes,0,0
+23,US Dax,11,10,Section Paloise,0,1
+23,Auch,13,31,LOU Rugby,0,1
+24,Stade Rochelais,27,7,AS Béziers Hérault,1,0
+24,Auch,28,28,Colomiers Rugby,0,0
+24,LOU Rugby,45,16,Stade Aurillacois,1,0
+24,Section Paloise,33,20,Bourgoin,0,0
+24,Albi,36,5,US Dax,1,0
+24,Stade Montois Rugby,29,6,Bourg-en-Bresse,1,0
+24,US Carcassonnaise,12,26,SU Agen,0,1
+24,Tarbes,19,12,Narbonne,0,0
+25,Bourgoin,34,33,LOU Rugby,0,1
+25,AS Béziers Hérault,25,20,Stade Montois Rugby,0,1
+25,Narbonne,40,19,Albi,1,0
+25,Stade Aurillacois,27,18,Tarbes,0,0
+25,Colomiers Rugby,14,20,Stade Rochelais,0,0
+25,US Dax,20,26,US Carcassonnaise,0,0
+25,SU Agen,19,6,Section Paloise,0,0
+25,Bourg-en-Bresse,36,25,Auch,0,0
+26,Auch,36,26,Bourgoin,1,0
+26,LOU Rugby,64,3,Bourg-en-Bresse,1,0
+26,Section Paloise,28,27,Albi,0,1
+26,Stade Montois Rugby,26,19,Stade Aurillacois,0,0
+26,Tarbes,40,13,US Dax,1,0
+26,US Carcassonnaise,22,20,AS Béziers Hérault,0,1
+26,Stade Rochelais,48,17,Narbonne,1,0
+26,Colomiers Rugby,22,35,SU Agen,0,1
+27,Albi,22,15,Auch,0,0
+27,Stade Aurillacois,16,18,Section Paloise,1,0
+27,Tarbes,29,28,Stade Montois Rugby,0,1
+27,Bourg-en-Bresse,19,13,AS Béziers Hérault,0,0
+27,US Dax,11,34,LOU Rugby,0,1
+27,Bourgoin,20,29,US Carcassonnaise,0,0
+27,Narbonne,22,19,Colomiers Rugby,0,1
+27,SU Agen,33,18,Stade Rochelais,1,0
+28,LOU Rugby,31,13,Tarbes,0,0
+28,AS Béziers Hérault,17,24,Bourgoin,0,0
+28,Auch,13,6,Narbonne,0,0
+28,SU Agen,30,17,US Dax,0,0
+28,Stade Montois Rugby,31,18,Albi,1,0
+28,Colomiers Rugby,19,9,Bourg-en-Bresse,0,0
+28,Stade Rochelais,29,0,Stade Aurillacois,1,0
+28,US Carcassonnaise,27,33,Section Paloise,0,0
+29,Section Paloise,25,15,Stade Montois Rugby,0,0
+29,Albi,16,6,Bourgoin,0,0
+29,Stade Aurillacois,8,18,Colomiers Rugby,0,0
+29,Bourg-en-Bresse,23,32,US Carcassonnaise,0,1
+29,US Dax,14,11,Auch,0,1
+29,Tarbes,22,16,Stade Rochelais,0,0
+29,LOU Rugby,19,16,SU Agen,0,1
+29,Narbonne,52,12,AS Béziers Hérault,1,0
+30,Stade Rochelais,26,27,LOU Rugby,1,0
+30,AS Béziers Hérault,34,19,Stade Aurillacois,1,0
+30,Bourgoin,23,16,Narbonne,0,0
+30,Auch,31,28,Tarbes,0,1
+30,SU Agen,27,22,Bourg-en-Bresse,0,1
+30,Stade Montois Rugby,40,0,US Dax,1,0
+30,US Carcassonnaise,43,31,Albi,0,0
+30,Colomiers Rugby,9,15,Section Paloise,0,0

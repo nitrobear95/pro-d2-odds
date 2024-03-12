@@ -1,0 +1,241 @@
+Round,Home team,Home score,Away score,Away team,Home bonus,Away bonus
+1,Albi,23,28,Aviron Bayonnais,1,0
+1,USA Perpignan,36,28,US Dax,0,0
+1,LOU Rugby,30,19,Bourgoin,0,0
+1,AS Béziers Hérault,36,23,Stade Montois Rugby,0,0
+1,Narbonne,36,18,Provence Rugby,0,0
+1,Tarbes,22,23,US Carcassonnaise,1,0
+1,Colomiers Rugby,25,20,US Montalbanaise,0,1
+1,Biarritz Olympique PB,25,28,Stade Aurillacois,1,0
+2,Stade Montois Rugby,18,22,LOU Rugby,1,0
+2,US Dax,15,20,Tarbes,1,0
+2,US Montalbanaise,20,9,Biarritz Olympique PB,0,0
+2,Bourgoin,19,22,Albi,1,0
+2,Provence Rugby,17,31,AS Béziers Hérault,0,0
+2,Stade Aurillacois,40,10,Colomiers Rugby,1,0
+2,US Carcassonnaise,9,38,USA Perpignan,0,0
+2,Aviron Bayonnais,28,21,Narbonne,0,0
+3,AS Béziers Hérault,23,28,LOU Rugby,1,0
+3,USA Perpignan,14,9,Stade Montois Rugby,0,1
+3,Biarritz Olympique PB,9,20,Albi,0,0
+3,Narbonne,18,13,Bourgoin,0,1
+3,Tarbes,28,10,Provence Rugby,0,0
+3,US Montalbanaise,5,31,Stade Aurillacois,0,1
+3,Colomiers Rugby,31,9,US Carcassonnaise,1,0
+3,US Dax,31,28,Aviron Bayonnais,0,1
+4,Albi,23,19,USA Perpignan,0,1
+4,Provence Rugby,22,11,Biarritz Olympique PB,0,0
+4,AS Béziers Hérault,18,13,Narbonne,0,1
+4,LOU Rugby,44,14,US Montalbanaise,1,0
+4,Stade Aurillacois,39,14,Tarbes,1,0
+4,Stade Montois Rugby,33,20,Colomiers Rugby,0,0
+4,US Carcassonnaise,30,20,US Dax,0,0
+4,Aviron Bayonnais,36,14,Bourgoin,1,0
+5,Biarritz Olympique PB,16,19,LOU Rugby,1,0
+5,Bourgoin,16,20,USA Perpignan,1,0
+5,Narbonne,32,30,Stade Aurillacois,0,1
+5,Tarbes,19,10,AS Béziers Hérault,0,0
+5,US Montalbanaise,16,14,Stade Montois Rugby,0,1
+5,US Carcassonnaise,22,32,Aviron Bayonnais,0,0
+5,US Dax,26,19,Provence Rugby,0,0
+5,Colomiers Rugby,26,16,Albi,0,0
+6,USA Perpignan,29,18,Biarritz Olympique PB,0,0
+6,Stade Montois Rugby,38,15,Aviron Bayonnais,0,0
+6,LOU Rugby,47,11,US Carcassonnaise,1,0
+6,Provence Rugby,29,27,US Montalbanaise,0,1
+6,Albi,26,10,Narbonne,1,0
+6,Tarbes,13,19,Bourgoin,0,0
+6,Colomiers Rugby,29,9,US Dax,0,0
+6,AS Béziers Hérault,54,40,Stade Aurillacois,0,0
+7,Aviron Bayonnais,17,14,USA Perpignan,0,1
+7,Biarritz Olympique PB,21,15,AS Béziers Hérault,0,0
+7,Bourgoin,29,12,Colomiers Rugby,0,0
+7,Provence Rugby,17,16,US Carcassonnaise,0,1
+7,Stade Montois Rugby,27,9,Albi,1,0
+7,US Montalbanaise,35,24,Tarbes,0,0
+7,US Dax,21,16,Narbonne,0,1
+7,Stade Aurillacois,23,21,LOU Rugby,0,1
+8,Colomiers Rugby,10,14,AS Béziers Hérault,1,0
+8,USA Perpignan,13,20,US Montalbanaise,0,0
+8,LOU Rugby,46,6,Tarbes,1,0
+8,Narbonne,22,12,Stade Montois Rugby,0,0
+8,Albi,23,19,Provence Rugby,0,1
+8,Stade Aurillacois,29,15,US Dax,0,0
+8,US Carcassonnaise,15,13,Bourgoin,0,1
+8,Aviron Bayonnais,32,25,Biarritz Olympique PB,0,0
+9,Bourgoin,25,22,Stade Aurillacois,0,1
+9,Biarritz Olympique PB,25,20,Narbonne,0,1
+9,AS Béziers Hérault,54,15,US Carcassonnaise,1,0
+9,Provence Rugby,8,60,LOU Rugby,0,1
+9,Tarbes,18,16,USA Perpignan,0,1
+9,US Montalbanaise,20,9,Albi,0,0
+9,Colomiers Rugby,28,28,Aviron Bayonnais,0,0
+9,Stade Montois Rugby,26,10,US Dax,1,0
+10,US Dax,10,15,Biarritz Olympique PB,1,0
+10,Albi,19,28,LOU Rugby,0,0
+10,Aviron Bayonnais,44,15,AS Béziers Hérault,1,0
+10,Bourgoin,27,10,Stade Montois Rugby,0,0
+10,Narbonne,19,22,Tarbes,1,0
+10,Stade Aurillacois,30,17,Provence Rugby,0,0
+10,US Carcassonnaise,21,17,US Montalbanaise,0,1
+10,USA Perpignan,23,23,Colomiers Rugby,0,0
+11,LOU Rugby,29,27,Aviron Bayonnais,0,1
+11,Biarritz Olympique PB,44,8,Stade Montois Rugby,1,0
+11,AS Béziers Hérault,46,0,Bourgoin,1,0
+11,Provence Rugby,15,22,Colomiers Rugby,0,0
+11,Tarbes,12,16,Albi,1,0
+11,US Montalbanaise,20,26,US Dax,0,0
+11,US Carcassonnaise,24,3,Stade Aurillacois,0,0
+11,Narbonne,41,8,USA Perpignan,1,0
+12,Aviron Bayonnais,27,9,US Montalbanaise,1,0
+12,USA Perpignan,34,19,Stade Aurillacois,1,0
+12,Biarritz Olympique PB,44,16,US Carcassonnaise,1,0
+12,Bourgoin,33,12,Provence Rugby,1,0
+12,Albi,16,16,AS Béziers Hérault,0,0
+12,Stade Montois Rugby,21,19,Tarbes,0,1
+12,Colomiers Rugby,19,16,Narbonne,0,1
+12,US Dax,26,33,LOU Rugby,0,0
+13,AS Béziers Hérault,27,22,USA Perpignan,0,1
+13,LOU Rugby,45,7,Colomiers Rugby,1,0
+13,Provence Rugby,17,15,Aviron Bayonnais,0,1
+13,Tarbes,22,13,Biarritz Olympique PB,0,0
+13,US Montalbanaise,34,20,Narbonne,0,0
+13,US Carcassonnaise,22,12,Stade Montois Rugby,0,0
+13,US Dax,25,13,Bourgoin,0,0
+13,Stade Aurillacois,15,13,Albi,0,1
+14,AS Béziers Hérault,38,17,US Montalbanaise,1,0
+14,Aviron Bayonnais,13,12,Stade Aurillacois,0,1
+14,Bourgoin,21,14,Biarritz Olympique PB,0,0
+14,Narbonne,15,12,US Carcassonnaise,0,1
+14,Albi,33,14,US Dax,0,0
+14,Stade Montois Rugby,20,18,Provence Rugby,0,1
+14,Colomiers Rugby,19,16,Tarbes,0,1
+14,USA Perpignan,20,16,LOU Rugby,0,1
+15,Stade Aurillacois,29,15,Stade Montois Rugby,0,0
+15,LOU Rugby,36,10,Narbonne,1,0
+15,Biarritz Olympique PB,26,3,Colomiers Rugby,0,0
+15,Tarbes,19,10,Aviron Bayonnais,0,0
+15,US Montalbanaise,14,9,Bourgoin,0,1
+15,US Carcassonnaise,12,13,Albi,1,0
+15,US Dax,18,20,AS Béziers Hérault,1,0
+15,Provence Rugby,30,21,USA Perpignan,0,0
+16,Bourgoin,13,17,LOU Rugby,1,0
+16,Albi,30,13,Biarritz Olympique PB,0,0
+16,Aviron Bayonnais,14,9,US Carcassonnaise,0,1
+16,AS Béziers Hérault,23,12,Provence Rugby,0,0
+16,Narbonne,20,12,US Dax,0,0
+16,Stade Montois Rugby,16,13,US Montalbanaise,0,1
+16,USA Perpignan,21,16,Tarbes,0,1
+16,Colomiers Rugby,21,3,Stade Aurillacois,1,0
+17,Biarritz Olympique PB,13,16,Aviron Bayonnais,1,0
+17,Stade Aurillacois,24,10,AS Béziers Hérault,0,0
+17,Albi,10,16,US Montalbanaise,0,0
+17,Tarbes,16,20,Narbonne,1,0
+17,USA Perpignan,25,6,Bourgoin,1,0
+17,US Carcassonnaise,13,3,Provence Rugby,0,0
+17,US Dax,6,29,Colomiers Rugby,0,0
+17,LOU Rugby,40,15,Stade Montois Rugby,0,0
+18,AS Béziers Hérault,24,19,Tarbes,0,1
+18,Bourgoin,28,6,US Carcassonnaise,1,0
+18,Provence Rugby,30,16,Stade Aurillacois,0,0
+18,Narbonne,29,21,Albi,0,0
+18,Stade Montois Rugby,23,17,Biarritz Olympique PB,0,0
+18,Colomiers Rugby,41,16,USA Perpignan,1,0
+18,US Montalbanaise,17,23,LOU Rugby,0,0
+18,Aviron Bayonnais,17,13,US Dax,0,1
+19,Bourgoin,18,20,Aviron Bayonnais,1,0
+19,Albi,18,17,Colomiers Rugby,0,1
+19,LOU Rugby,36,12,Provence Rugby,1,0
+19,Stade Aurillacois,45,7,Narbonne,1,0
+19,Tarbes,33,13,Stade Montois Rugby,0,0
+19,US Carcassonnaise,18,17,AS Béziers Hérault,0,1
+19,US Dax,21,17,US Montalbanaise,0,1
+19,Biarritz Olympique PB,27,21,USA Perpignan,0,0
+20,LOU Rugby,38,3,Stade Aurillacois,1,0
+20,AS Béziers Hérault,25,26,Biarritz Olympique PB,1,0
+20,Provence Rugby,23,29,US Dax,0,0
+20,Narbonne,26,24,US Montalbanaise,0,1
+20,Albi,37,36,Tarbes,0,1
+20,Stade Montois Rugby,26,15,Bourgoin,0,0
+20,USA Perpignan,40,14,US Carcassonnaise,1,0
+20,Aviron Bayonnais,16,15,Colomiers Rugby,0,1
+21,USA Perpignan,47,13,AS Béziers Hérault,1,0
+21,Biarritz Olympique PB,20,10,Tarbes,0,0
+21,Bourgoin,23,7,Narbonne,0,0
+21,US Montalbanaise,20,10,Provence Rugby,0,0
+21,US Carcassonnaise,26,38,LOU Rugby,0,0
+21,Colomiers Rugby,12,12,Stade Montois Rugby,0,0
+21,US Dax,12,12,Albi,0,0
+21,Stade Aurillacois,23,10,Aviron Bayonnais,0,0
+22,Narbonne,20,26,Biarritz Olympique PB,0,0
+22,AS Béziers Hérault,26,17,Colomiers Rugby,0,0
+22,Aviron Bayonnais,23,18,Provence Rugby,0,1
+22,LOU Rugby,42,7,US Dax,1,0
+22,Albi,17,41,Bourgoin,0,1
+22,Tarbes,17,20,Stade Aurillacois,1,0
+22,US Montalbanaise,12,3,US Carcassonnaise,0,0
+22,Stade Montois Rugby,27,22,USA Perpignan,0,1
+23,Aviron Bayonnais,11,15,LOU Rugby,1,0
+23,USA Perpignan,28,10,Narbonne,0,0
+23,Bourgoin,34,13,US Dax,1,0
+23,Provence Rugby,19,15,Albi,0,1
+23,Stade Aurillacois,18,15,US Montalbanaise,0,1
+23,Stade Montois Rugby,41,21,AS Béziers Hérault,0,0
+23,US Carcassonnaise,6,9,Tarbes,1,0
+23,Colomiers Rugby,20,19,Biarritz Olympique PB,0,1
+24,LOU Rugby,40,19,USA Perpignan,1,0
+24,US Montalbanaise,29,3,Aviron Bayonnais,1,0
+24,Biarritz Olympique PB,26,25,Bourgoin,0,1
+24,Provence Rugby,18,20,Stade Montois Rugby,1,0
+24,Albi,30,17,Stade Aurillacois,0,0
+24,Tarbes,31,26,Colomiers Rugby,0,1
+24,US Dax,15,20,US Carcassonnaise,1,0
+24,Narbonne,30,21,AS Béziers Hérault,0,0
+25,USA Perpignan,23,10,Aviron Bayonnais,0,0
+25,Tarbes,10,9,LOU Rugby,0,1
+25,Biarritz Olympique PB,28,13,US Dax,0,0
+25,Bourgoin,27,20,US Montalbanaise,0,0
+25,Stade Aurillacois,42,14,US Carcassonnaise,1,0
+25,Stade Montois Rugby,17,11,Narbonne,0,0
+25,Colomiers Rugby,27,19,Provence Rugby,0,0
+25,AS Béziers Hérault,27,8,Albi,0,0
+26,US Montalbanaise,28,25,USA Perpignan,0,1
+26,US Carcassonnaise,32,27,Biarritz Olympique PB,0,1
+26,Aviron Bayonnais,28,10,Tarbes,0,0
+26,Provence Rugby,29,6,Bourgoin,1,0
+26,Narbonne,34,6,Colomiers Rugby,1,0
+26,Albi,19,27,Stade Montois Rugby,0,0
+26,US Dax,26,18,Stade Aurillacois,1,0
+26,LOU Rugby,38,17,AS Béziers Hérault,1,0
+27,USA Perpignan,18,13,Albi,0,1
+27,Narbonne,20,27,Aviron Bayonnais,0,0
+27,AS Béziers Hérault,24,35,US Dax,0,0
+27,Biarritz Olympique PB,32,28,Provence Rugby,0,1
+27,Stade Aurillacois,44,20,Bourgoin,1,0
+27,Stade Montois Rugby,39,10,US Carcassonnaise,1,0
+27,Tarbes,20,15,US Montalbanaise,0,1
+27,Colomiers Rugby,27,16,LOU Rugby,0,0
+28,Stade Aurillacois,19,6,USA Perpignan,0,0
+28,Bourgoin,19,22,AS Béziers Hérault,1,0
+28,Aviron Bayonnais,48,26,Albi,1,0
+28,LOU Rugby,61,31,Biarritz Olympique PB,1,0
+28,Provence Rugby,24,8,Tarbes,0,0
+28,US Montalbanaise,20,23,Colomiers Rugby,1,0
+28,US Carcassonnaise,26,20,Narbonne,0,0
+28,US Dax,16,40,Stade Montois Rugby,0,1
+29,AS Béziers Hérault,36,12,Aviron Bayonnais,1,0
+29,USA Perpignan,31,17,Provence Rugby,1,0
+29,Biarritz Olympique PB,38,23,US Montalbanaise,1,0
+29,Narbonne,21,20,LOU Rugby,0,1
+29,Albi,37,15,US Carcassonnaise,1,0
+29,Tarbes,15,6,US Dax,0,0
+29,Colomiers Rugby,42,0,Bourgoin,1,0
+29,Stade Montois Rugby,36,18,Stade Aurillacois,1,0
+30,Aviron Bayonnais,23,17,Stade Montois Rugby,0,0
+30,Bourgoin,50,19,Tarbes,1,0
+30,LOU Rugby,34,17,Albi,1,0
+30,Provence Rugby,19,18,Narbonne,0,1
+30,Stade Aurillacois,24,16,Biarritz Olympique PB,0,0
+30,US Montalbanaise,13,22,AS Béziers Hérault,0,0
+30,US Carcassonnaise,15,22,Colomiers Rugby,0,0
+30,US Dax,20,7,USA Perpignan,0,0

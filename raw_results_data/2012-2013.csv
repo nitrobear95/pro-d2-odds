@@ -1,0 +1,241 @@
+Round,Home team,Home score,Away score,Away team,Home bonus,Away bonus
+1,LOU Rugby,30,12,Tarbes,0,0
+1,Narbonne,13,17,Section Paloise,1,0
+1,RC Massy Essonne,21,18,Provence Rugby,0,1
+1,Albi,22,20,Colomiers Rugby,0,1
+1,US Dax,16,31,Stade Aurillacois,0,0
+1,Stade Rochelais,12,22,Oyonnax Rugby,0,0
+1,Auch,24,23,US Carcassonnaise,0,1
+1,AS Béziers Hérault,20,27,CA Brive,0,0
+2,LOU Rugby,63,15,AS Béziers Hérault,1,0
+2,Auch,30,16,RC Massy Essonne,0,0
+2,Oyonnax Rugby,40,6,Albi,1,0
+2,Stade Aurillacois,42,19,Provence Rugby,0,0
+2,Tarbes,24,14,Section Paloise,0,0
+2,US Carcassonnaise,34,14,CA Brive,0,0
+2,Colomiers Rugby,29,25,Narbonne,0,1
+2,Stade Rochelais,32,6,US Dax,1,0
+3,AS Béziers Hérault,22,9,US Dax,0,0
+3,Provence Rugby,33,9,Auch,1,0
+3,Narbonne,18,13,Stade Rochelais,0,1
+3,Tarbes,25,25,Oyonnax Rugby,0,0
+3,US Carcassonnaise,44,23,RC Massy Essonne,1,0
+3,Colomiers Rugby,22,29,Stade Aurillacois,0,0
+3,Section Paloise,22,19,Albi,0,1
+3,CA Brive,19,19,LOU Rugby,0,0
+4,Section Paloise,22,18,US Carcassonnaise,0,1
+4,Stade Rochelais,24,10,Auch,0,0
+4,Provence Rugby,16,23,Oyonnax Rugby,0,0
+4,RC Massy Essonne,31,16,AS Béziers Hérault,0,0
+4,Stade Aurillacois,24,39,Tarbes,0,0
+4,US Dax,24,25,Colomiers Rugby,1,0
+4,CA Brive,24,16,Narbonne,0,0
+4,Albi,35,24,LOU Rugby,0,0
+5,AS Béziers Hérault,39,28,Provence Rugby,0,0
+5,Auch,33,26,Section Paloise,0,0
+5,Oyonnax Rugby,27,6,Colomiers Rugby,1,0
+5,Narbonne,22,19,US Dax,0,1
+5,RC Massy Essonne,29,34,Albi,1,0
+5,Tarbes,37,30,US Carcassonnaise,1,0
+5,LOU Rugby,22,15,Stade Rochelais,0,0
+5,Stade Aurillacois,27,20,CA Brive,0,0
+6,US Carcassonnaise,25,21,Oyonnax Rugby,0,1
+6,AS Béziers Hérault,16,19,Section Paloise,1,0
+6,CA Brive,16,11,Auch,0,1
+6,Provence Rugby,16,20,Tarbes,1,0
+6,Albi,25,19,Stade Aurillacois,0,0
+6,US Dax,44,10,RC Massy Essonne,1,0
+6,Colomiers Rugby,25,30,Stade Rochelais,1,0
+6,LOU Rugby,36,16,Narbonne,1,0
+7,CA Brive,30,3,RC Massy Essonne,1,0
+7,Auch,40,21,AS Béziers Hérault,1,0
+7,Provence Rugby,12,25,LOU Rugby,0,1
+7,Section Paloise,30,3,Colomiers Rugby,1,0
+7,Albi,28,22,Tarbes,0,0
+7,Stade Aurillacois,32,15,Narbonne,0,0
+7,Stade Rochelais,24,22,US Carcassonnaise,0,1
+7,Oyonnax Rugby,46,26,US Dax,1,0
+8,Stade Aurillacois,17,10,Stade Rochelais,0,0
+8,AS Béziers Hérault,25,13,Albi,0,0
+8,Narbonne,28,13,US Carcassonnaise,0,0
+8,RC Massy Essonne,16,29,Oyonnax Rugby,0,1
+8,Tarbes,15,26,CA Brive,0,0
+8,Colomiers Rugby,28,9,Provence Rugby,0,0
+8,US Dax,15,9,Section Paloise,0,0
+8,Auch,13,10,LOU Rugby,0,1
+9,CA Brive,22,18,Section Paloise,0,1
+9,Stade Rochelais,48,11,AS Béziers Hérault,1,0
+9,LOU Rugby,24,6,Colomiers Rugby,0,0
+9,Narbonne,22,24,Provence Rugby,1,0
+9,RC Massy Essonne,26,28,Tarbes,1,0
+9,Albi,13,12,Auch,0,1
+9,US Carcassonnaise,37,30,US Dax,0,0
+9,Oyonnax Rugby,36,20,Stade Aurillacois,0,0
+10,Provence Rugby,9,28,Stade Rochelais,0,0
+10,Section Paloise,37,8,RC Massy Essonne,1,0
+10,Tarbes,53,13,AS Béziers Hérault,1,0
+10,US Carcassonnaise,22,21,Albi,0,1
+10,US Dax,21,20,CA Brive,0,1
+10,Oyonnax Rugby,40,13,Narbonne,1,0
+10,Colomiers Rugby,9,3,Auch,0,0
+10,Stade Aurillacois,19,16,LOU Rugby,0,1
+11,AS Béziers Hérault,10,14,US Carcassonnaise,1,0
+11,CA Brive,33,12,Colomiers Rugby,1,0
+11,Auch,16,17,Tarbes,1,0
+11,Provence Rugby,28,19,US Dax,0,0
+11,Narbonne,18,15,Albi,0,1
+11,RC Massy Essonne,15,19,Stade Rochelais,1,0
+11,LOU Rugby,31,33,Oyonnax Rugby,1,0
+11,Section Paloise,22,11,Stade Aurillacois,0,0
+12,Stade Rochelais,18,16,Section Paloise,0,1
+12,Auch,26,26,Narbonne,0,0
+12,Albi,49,21,Provence Rugby,1,0
+12,Colomiers Rugby,28,24,AS Béziers Hérault,0,1
+12,US Dax,15,13,Tarbes,0,1
+12,Oyonnax Rugby,40,19,CA Brive,0,0
+12,RC Massy Essonne,23,37,LOU Rugby,0,0
+12,US Carcassonnaise,28,32,Stade Aurillacois,1,0
+13,LOU Rugby,30,13,US Dax,0,0
+13,Oyonnax Rugby,55,3,Auch,1,0
+13,Section Paloise,37,0,Provence Rugby,1,0
+13,Stade Aurillacois,28,7,RC Massy Essonne,0,0
+13,Tarbes,37,26,Stade Rochelais,0,0
+13,US Carcassonnaise,32,7,Colomiers Rugby,1,0
+13,CA Brive,24,10,Albi,0,0
+13,AS Béziers Hérault,17,34,Narbonne,0,0
+14,AS Béziers Hérault,28,33,Oyonnax Rugby,1,0
+14,Auch,12,19,Stade Aurillacois,0,0
+14,Provence Rugby,22,21,US Carcassonnaise,0,1
+14,Narbonne,28,25,RC Massy Essonne,0,1
+14,Albi,25,15,US Dax,0,0
+14,Colomiers Rugby,34,6,Tarbes,1,0
+14,Section Paloise,19,9,LOU Rugby,0,0
+14,Stade Rochelais,36,16,CA Brive,1,0
+15,Stade Rochelais,15,13,Albi,0,1
+15,Oyonnax Rugby,26,21,Section Paloise,0,1
+15,RC Massy Essonne,13,9,Colomiers Rugby,0,1
+15,Stade Aurillacois,33,24,AS Béziers Hérault,0,0
+15,Tarbes,21,14,Narbonne,0,0
+15,US Dax,19,12,Auch,0,0
+15,CA Brive,24,8,Provence Rugby,1,0
+15,LOU Rugby,13,15,US Carcassonnaise,1,0
+16,Oyonnax Rugby,18,3,Stade Rochelais,0,0
+16,Provence Rugby,34,22,RC Massy Essonne,0,0
+16,Section Paloise,26,23,Narbonne,0,1
+16,Stade Aurillacois,38,16,US Dax,0,0
+16,US Carcassonnaise,27,10,Auch,0,0
+16,Colomiers Rugby,17,6,Albi,0,0
+16,Tarbes,22,8,LOU Rugby,0,0
+16,CA Brive,28,3,AS Béziers Hérault,1,0
+17,AS Béziers Hérault,20,16,LOU Rugby,0,1
+17,Provence Rugby,24,30,Stade Aurillacois,0,0
+17,Narbonne,22,19,Colomiers Rugby,0,1
+17,RC Massy Essonne,9,9,Auch,0,0
+17,Albi,11,13,Oyonnax Rugby,1,0
+17,US Dax,15,25,Stade Rochelais,0,0
+17,CA Brive,16,22,US Carcassonnaise,0,0
+17,Section Paloise,25,6,Tarbes,0,0
+18,Stade Rochelais,21,15,Narbonne,0,0
+18,Auch,6,9,Provence Rugby,1,0
+18,Oyonnax Rugby,21,18,Tarbes,0,1
+18,US Dax,25,14,AS Béziers Hérault,0,0
+18,Stade Aurillacois,13,11,Colomiers Rugby,0,1
+18,Albi,13,19,Section Paloise,0,0
+18,LOU Rugby,17,17,CA Brive,0,0
+18,RC Massy Essonne,9,3,US Carcassonnaise,0,0
+19,Auch,3,20,Stade Rochelais,0,0
+19,Oyonnax Rugby,22,10,Provence Rugby,0,0
+19,US Carcassonnaise,12,12,Section Paloise,0,0
+19,Colomiers Rugby,22,15,US Dax,0,0
+19,LOU Rugby,26,12,Albi,0,0
+19,Narbonne,28,17,CA Brive,0,0
+19,Tarbes,15,9,Stade Aurillacois,0,0
+19,AS Béziers Hérault,26,16,RC Massy Essonne,0,0
+20,Provence Rugby,15,14,AS Béziers Hérault,0,1
+20,Section Paloise,22,15,Auch,0,0
+20,Albi,26,19,RC Massy Essonne,0,0
+20,US Dax,12,15,Narbonne,1,0
+20,CA Brive,13,9,Stade Aurillacois,0,1
+20,US Carcassonnaise,14,9,Tarbes,0,1
+20,Colomiers Rugby,25,13,Oyonnax Rugby,0,0
+20,Stade Rochelais,9,3,LOU Rugby,0,0
+21,Auch,16,22,CA Brive,0,0
+21,Narbonne,32,21,LOU Rugby,0,0
+21,RC Massy Essonne,20,20,US Dax,0,0
+21,Section Paloise,15,6,AS Béziers Hérault,0,0
+21,Stade Aurillacois,22,22,Albi,0,0
+21,Tarbes,33,16,Provence Rugby,1,0
+21,Stade Rochelais,21,17,Colomiers Rugby,0,1
+21,Oyonnax Rugby,32,5,US Carcassonnaise,1,0
+22,AS Béziers Hérault,18,11,Auch,0,0
+22,Narbonne,45,21,Stade Aurillacois,0,0
+22,RC Massy Essonne,15,17,CA Brive,1,0
+22,Tarbes,31,22,Albi,0,0
+22,US Carcassonnaise,23,18,Stade Rochelais,0,1
+22,US Dax,12,33,Oyonnax Rugby,0,1
+22,LOU Rugby,50,16,Provence Rugby,1,0
+22,Colomiers Rugby,23,12,Section Paloise,0,0
+23,CA Brive,30,10,Tarbes,1,0
+23,Provence Rugby,16,17,Colomiers Rugby,1,0
+23,Section Paloise,47,23,US Dax,1,0
+23,Stade Rochelais,49,19,Stade Aurillacois,1,0
+23,Oyonnax Rugby,41,17,RC Massy Essonne,1,0
+23,Albi,16,10,AS Béziers Hérault,0,0
+23,US Carcassonnaise,20,27,Narbonne,0,0
+23,LOU Rugby,26,12,Auch,0,0
+24,AS Béziers Hérault,31,25,Stade Rochelais,0,0
+24,Auch,22,10,Albi,0,0
+24,Provence Rugby,28,22,Narbonne,0,0
+24,Stade Aurillacois,23,22,Oyonnax Rugby,0,1
+24,Tarbes,29,26,RC Massy Essonne,0,1
+24,US Dax,22,9,US Carcassonnaise,0,0
+24,Section Paloise,12,9,CA Brive,0,1
+24,Colomiers Rugby,19,19,LOU Rugby,0,0
+25,AS Béziers Hérault,11,3,Tarbes,0,0
+25,Auch,19,19,Colomiers Rugby,0,0
+25,Narbonne,6,9,Oyonnax Rugby,1,0
+25,Albi,23,11,US Carcassonnaise,0,0
+25,Stade Rochelais,39,21,Provence Rugby,1,0
+25,CA Brive,26,14,US Dax,1,0
+25,RC Massy Essonne,44,20,Section Paloise,0,0
+25,LOU Rugby,33,6,Stade Aurillacois,1,0
+26,Albi,11,14,Narbonne,1,0
+26,Stade Aurillacois,21,18,Section Paloise,0,1
+26,Tarbes,14,16,Auch,1,0
+26,US Carcassonnaise,12,8,AS Béziers Hérault,0,1
+26,US Dax,25,15,Provence Rugby,1,0
+26,Stade Rochelais,44,27,RC Massy Essonne,0,0
+26,Oyonnax Rugby,23,20,LOU Rugby,0,1
+26,Colomiers Rugby,16,18,CA Brive,1,0
+27,AS Béziers Hérault,23,9,Colomiers Rugby,1,0
+27,LOU Rugby,32,25,RC Massy Essonne,1,0
+27,Provence Rugby,27,12,Albi,1,0
+27,Narbonne,31,15,Auch,0,0
+27,Stade Aurillacois,32,17,US Carcassonnaise,0,0
+27,Tarbes,44,12,US Dax,1,0
+27,CA Brive,30,29,Oyonnax Rugby,0,1
+27,Section Paloise,40,25,Stade Rochelais,0,0
+28,Stade Rochelais,38,13,Tarbes,0,0
+28,Auch,13,40,Oyonnax Rugby,0,0
+28,Provence Rugby,18,29,Section Paloise,0,0
+28,Narbonne,22,22,AS Béziers Hérault,0,0
+28,RC Massy Essonne,17,24,Stade Aurillacois,0,0
+28,Albi,16,20,CA Brive,1,0
+28,Colomiers Rugby,22,19,US Carcassonnaise,0,1
+28,US Dax,29,5,LOU Rugby,0,0
+29,Stade Aurillacois,12,6,Auch,0,0
+29,Oyonnax Rugby,38,3,AS Béziers Hérault,1,0
+29,RC Massy Essonne,39,37,Narbonne,0,1
+29,Tarbes,41,14,Colomiers Rugby,1,0
+29,US Carcassonnaise,16,15,Provence Rugby,0,1
+29,US Dax,30,18,Albi,0,0
+29,CA Brive,31,10,Stade Rochelais,0,0
+29,LOU Rugby,19,26,Section Paloise,0,0
+30,AS Béziers Hérault,24,18,Stade Aurillacois,0,0
+30,Auch,15,6,US Dax,0,0
+30,Provence Rugby,25,30,CA Brive,1,0
+30,Section Paloise,73,27,Oyonnax Rugby,1,0
+30,Albi,34,21,Stade Rochelais,0,0
+30,US Carcassonnaise,52,12,LOU Rugby,1,0
+30,Colomiers Rugby,55,27,RC Massy Essonne,1,0
+30,Narbonne,26,38,Tarbes,0,0

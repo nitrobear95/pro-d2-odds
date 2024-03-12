@@ -1,0 +1,241 @@
+Round,Home team,Home score,Away score,Away team,Home bonus,Away bonus
+1,AS Béziers Hérault,25,21,Soyaux-Angoulême XV,0,1
+1,Bourg-en-Bresse,19,19,RC Vannes,0,0
+1,Stade Montois Rugby,33,10,RC Massy Essonne,1,0
+1,US Montalbanaise,16,12,US Carcassonnaise,0,1
+1,Biarritz Olympique PB,19,16,USON Nevers,0,1
+1,Aviron Bayonnais,30,17,CA Brive,0,0
+1,Colomiers Rugby,28,26,Provence Rugby,0,1
+1,Stade Aurillacois,20,19,Oyonnax Rugby,0,1
+2,US Montalbanaise,16,15,Biarritz Olympique PB,0,1
+2,AS Béziers Hérault,37,26,RC Massy Essonne,0,0
+2,CA Brive,27,17,Colomiers Rugby,0,0
+2,Provence Rugby,48,18,Stade Aurillacois,1,0
+2,US Carcassonnaise,18,15,Soyaux-Angoulême XV,0,1
+2,USON Nevers,53,13,Bourg-en-Bresse,1,0
+2,Oyonnax Rugby,30,29,RC Vannes,0,1
+2,Aviron Bayonnais,28,28,Stade Montois Rugby,0,0
+3,Biarritz Olympique PB,33,33,CA Brive,0,0
+3,Bourg-en-Bresse,18,16,Provence Rugby,0,1
+3,RC Massy Essonne,12,21,Aviron Bayonnais,0,0
+3,RC Vannes,24,13,USON Nevers,0,0
+3,Soyaux-Angoulême XV,29,23,US Montalbanaise,0,0
+3,Stade Aurillacois,19,16,US Carcassonnaise,0,1
+3,Colomiers Rugby,18,19,Oyonnax Rugby,1,0
+3,Stade Montois Rugby,35,14,AS Béziers Hérault,1,0
+4,Oyonnax Rugby,18,16,Aviron Bayonnais,0,1
+4,Biarritz Olympique PB,46,9,Bourg-en-Bresse,1,0
+4,Provence Rugby,38,23,RC Vannes,1,0
+4,Soyaux-Angoulême XV,23,13,Stade Aurillacois,0,0
+4,US Carcassonnaise,25,20,Colomiers Rugby,0,1
+4,USON Nevers,17,6,RC Massy Essonne,0,0
+4,US Montalbanaise,20,25,Stade Montois Rugby,1,0
+4,CA Brive,27,6,AS Béziers Hérault,0,0
+5,RC Vannes,9,11,CA Brive,1,0
+5,Aviron Bayonnais,34,19,Provence Rugby,1,0
+5,Bourg-en-Bresse,21,32,US Carcassonnaise,0,0
+5,Colomiers Rugby,27,10,Biarritz Olympique PB,0,0
+5,RC Massy Essonne,19,20,Soyaux-Angoulême XV,1,0
+5,Stade Aurillacois,12,16,USON Nevers,1,0
+5,AS Béziers Hérault,27,5,US Montalbanaise,1,0
+5,Stade Montois Rugby,37,21,Oyonnax Rugby,0,0
+6,Biarritz Olympique PB,22,6,Aviron Bayonnais,0,0
+6,CA Brive,36,14,Stade Aurillacois,1,0
+6,Oyonnax Rugby,49,16,Bourg-en-Bresse,1,0
+6,RC Massy Essonne,6,21,RC Vannes,0,0
+6,Soyaux-Angoulême XV,20,16,Stade Montois Rugby,0,1
+6,USON Nevers,39,17,Provence Rugby,1,0
+6,US Carcassonnaise,47,13,AS Béziers Hérault,1,0
+6,US Montalbanaise,29,20,Colomiers Rugby,0,0
+7,AS Béziers Hérault,24,19,Oyonnax Rugby,0,1
+7,Aviron Bayonnais,26,21,USON Nevers,0,1
+7,Bourg-en-Bresse,22,18,RC Massy Essonne,0,1
+7,Provence Rugby,28,25,US Carcassonnaise,0,1
+7,RC Vannes,16,0,Colomiers Rugby,0,0
+7,Stade Aurillacois,28,15,US Montalbanaise,0,0
+7,Stade Montois Rugby,20,13,Biarritz Olympique PB,0,0
+7,CA Brive,31,18,Soyaux-Angoulême XV,0,0
+8,USON Nevers,24,17,Stade Montois Rugby,0,0
+8,Colomiers Rugby,30,24,AS Béziers Hérault,0,0
+8,RC Massy Essonne,30,19,CA Brive,0,0
+8,Soyaux-Angoulême XV,42,12,RC Vannes,1,0
+8,US Carcassonnaise,22,10,Aviron Bayonnais,0,0
+8,US Montalbanaise,37,19,Bourg-en-Bresse,1,0
+8,Biarritz Olympique PB,28,24,Stade Aurillacois,0,1
+8,Oyonnax Rugby,46,23,Provence Rugby,1,0
+9,CA Brive,15,3,US Montalbanaise,0,0
+9,AS Béziers Hérault,34,7,Stade Aurillacois,1,0
+9,Bourg-en-Bresse,18,15,Colomiers Rugby,0,1
+9,Provence Rugby,20,9,Stade Montois Rugby,0,0
+9,RC Massy Essonne,29,20,Biarritz Olympique PB,0,0
+9,RC Vannes,39,22,US Carcassonnaise,0,0
+9,USON Nevers,19,16,Oyonnax Rugby,0,1
+9,Aviron Bayonnais,60,9,Soyaux-Angoulême XV,1,0
+10,Stade Montois Rugby,38,10,Colomiers Rugby,1,0
+10,CA Brive,31,13,USON Nevers,0,0
+10,Oyonnax Rugby,29,12,Soyaux-Angoulême XV,1,0
+10,RC Vannes,12,9,AS Béziers Hérault,0,1
+10,Stade Aurillacois,13,9,Bourg-en-Bresse,0,1
+10,US Carcassonnaise,22,14,RC Massy Essonne,0,0
+10,Biarritz Olympique PB,29,13,Provence Rugby,0,0
+10,US Montalbanaise,14,25,Aviron Bayonnais,0,0
+11,US Carcassonnaise,19,14,CA Brive,0,1
+11,Aviron Bayonnais,29,7,Bourg-en-Bresse,1,0
+11,Colomiers Rugby,19,17,Stade Aurillacois,0,1
+11,RC Massy Essonne,21,32,Oyonnax Rugby,0,0
+11,Stade Montois Rugby,16,13,RC Vannes,0,1
+11,USON Nevers,22,19,US Montalbanaise,0,1
+11,Provence Rugby,17,15,AS Béziers Hérault,0,1
+11,Soyaux-Angoulême XV,31,15,Biarritz Olympique PB,1,0
+12,AS Béziers Hérault,30,13,Aviron Bayonnais,0,0
+12,Bourg-en-Bresse,31,6,Soyaux-Angoulême XV,1,0
+12,Colomiers Rugby,23,24,USON Nevers,1,0
+12,Provence Rugby,16,38,RC Massy Essonne,0,1
+12,RC Vannes,27,28,US Montalbanaise,1,0
+12,Stade Aurillacois,31,7,Stade Montois Rugby,1,0
+12,Biarritz Olympique PB,21,16,US Carcassonnaise,0,1
+12,CA Brive,21,20,Oyonnax Rugby,0,1
+13,Stade Montois Rugby,19,14,CA Brive,0,1
+13,AS Béziers Hérault,16,6,Bourg-en-Bresse,0,0
+13,Aviron Bayonnais,16,14,RC Vannes,0,1
+13,RC Massy Essonne,18,27,Stade Aurillacois,0,1
+13,Soyaux-Angoulême XV,14,13,Colomiers Rugby,0,1
+13,US Montalbanaise,28,23,Provence Rugby,0,1
+13,Oyonnax Rugby,23,27,Biarritz Olympique PB,1,0
+13,USON Nevers,41,10,US Carcassonnaise,1,0
+14,Provence Rugby,22,20,CA Brive,0,1
+14,Bourg-en-Bresse,50,13,Stade Montois Rugby,1,0
+14,Colomiers Rugby,0,6,Aviron Bayonnais,0,0
+14,Stade Aurillacois,17,23,RC Vannes,0,0
+14,US Montalbanaise,15,9,RC Massy Essonne,0,0
+14,USON Nevers,13,12,Soyaux-Angoulême XV,0,1
+14,Biarritz Olympique PB,21,23,AS Béziers Hérault,1,0
+14,US Carcassonnaise,13,21,Oyonnax Rugby,0,0
+15,AS Béziers Hérault,12,9,USON Nevers,0,1
+15,Aviron Bayonnais,45,10,Stade Aurillacois,1,0
+15,CA Brive,52,14,Bourg-en-Bresse,1,0
+15,RC Massy Essonne,22,13,Colomiers Rugby,0,0
+15,RC Vannes,37,23,Biarritz Olympique PB,0,0
+15,Soyaux-Angoulême XV,36,20,Provence Rugby,0,0
+15,Stade Montois Rugby,30,14,US Carcassonnaise,0,0
+15,Oyonnax Rugby,51,14,US Montalbanaise,1,0
+16,Biarritz Olympique PB,27,22,Stade Montois Rugby,0,1
+16,Provence Rugby,21,16,Aviron Bayonnais,0,1
+16,Soyaux-Angoulême XV,8,8,RC Massy Essonne,0,0
+16,US Carcassonnaise,39,35,Stade Aurillacois,0,1
+16,US Montalbanaise,18,20,AS Béziers Hérault,1,0
+16,USON Nevers,32,6,RC Vannes,1,0
+16,Colomiers Rugby,9,6,CA Brive,0,1
+16,Bourg-en-Bresse,21,17,Oyonnax Rugby,0,1
+17,CA Brive,36,26,Biarritz Olympique PB,0,0
+17,Aviron Bayonnais,21,16,US Montalbanaise,0,1
+17,Oyonnax Rugby,32,16,Colomiers Rugby,1,0
+17,RC Massy Essonne,20,29,Bourg-en-Bresse,0,0
+17,RC Vannes,43,29,Provence Rugby,0,0
+17,Stade Montois Rugby,34,11,USON Nevers,1,0
+17,AS Béziers Hérault,23,18,US Carcassonnaise,0,1
+17,Stade Aurillacois,13,10,Soyaux-Angoulême XV,0,1
+18,USON Nevers,23,17,Aviron Bayonnais,0,0
+18,Biarritz Olympique PB,36,12,RC Massy Essonne,1,0
+18,Colomiers Rugby,22,16,Stade Montois Rugby,0,0
+18,Provence Rugby,12,11,Bourg-en-Bresse,0,1
+18,US Carcassonnaise,23,20,RC Vannes,0,1
+18,US Montalbanaise,27,3,Stade Aurillacois,1,0
+18,Oyonnax Rugby,23,13,AS Béziers Hérault,0,0
+18,Soyaux-Angoulême XV,11,23,CA Brive,0,0
+19,Aviron Bayonnais,30,25,Oyonnax Rugby,0,1
+19,Bourg-en-Bresse,29,27,Biarritz Olympique PB,0,1
+19,RC Massy Essonne,6,30,USON Nevers,0,1
+19,Stade Aurillacois,23,18,Colomiers Rugby,0,1
+19,Stade Montois Rugby,16,20,Provence Rugby,1,0
+19,US Carcassonnaise,5,20,US Montalbanaise,0,0
+19,AS Béziers Hérault,29,20,CA Brive,0,0
+19,RC Vannes,24,16,Soyaux-Angoulême XV,1,0
+20,Oyonnax Rugby,34,14,Stade Montois Rugby,1,0
+20,Aviron Bayonnais,46,10,US Carcassonnaise,1,0
+20,CA Brive,37,13,RC Massy Essonne,1,0
+20,Colomiers Rugby,25,3,RC Vannes,1,0
+20,Provence Rugby,51,6,US Montalbanaise,1,0
+20,Soyaux-Angoulême XV,41,15,Bourg-en-Bresse,1,0
+20,USON Nevers,20,16,Biarritz Olympique PB,0,1
+20,Stade Aurillacois,19,3,AS Béziers Hérault,1,0
+21,US Carcassonnaise,49,12,USON Nevers,1,0
+21,AS Béziers Hérault,25,13,Colomiers Rugby,0,0
+21,Biarritz Olympique PB,48,22,Soyaux-Angoulême XV,1,0
+21,Bourg-en-Bresse,15,21,Aviron Bayonnais,0,0
+21,RC Massy Essonne,13,14,Provence Rugby,1,0
+21,Stade Montois Rugby,36,8,Stade Aurillacois,1,0
+21,RC Vannes,37,6,Oyonnax Rugby,1,0
+21,US Montalbanaise,28,26,CA Brive,0,1
+22,Aviron Bayonnais,21,15,AS Béziers Hérault,0,0
+22,Colomiers Rugby,29,19,Bourg-en-Bresse,0,0
+22,Oyonnax Rugby,38,10,US Carcassonnaise,1,0
+22,Provence Rugby,23,13,Biarritz Olympique PB,0,0
+22,Stade Aurillacois,31,18,RC Massy Essonne,0,0
+22,Stade Montois Rugby,16,10,US Montalbanaise,0,0
+22,CA Brive,61,14,RC Vannes,1,0
+22,Soyaux-Angoulême XV,40,15,USON Nevers,1,0
+23,US Montalbanaise,19,19,Oyonnax Rugby,0,0
+23,Bourg-en-Bresse,31,27,CA Brive,0,1
+23,Provence Rugby,20,21,Soyaux-Angoulême XV,1,0
+23,RC Vannes,26,12,RC Massy Essonne,0,0
+23,US Carcassonnaise,21,20,Biarritz Olympique PB,0,1
+23,USON Nevers,38,12,Colomiers Rugby,1,0
+23,Stade Aurillacois,41,27,Aviron Bayonnais,0,0
+23,AS Béziers Hérault,19,16,Stade Montois Rugby,0,1
+24,Stade Montois Rugby,17,13,Aviron Bayonnais,0,1
+24,Bourg-en-Bresse,18,16,USON Nevers,0,1
+24,Colomiers Rugby,23,19,US Montalbanaise,0,1
+24,Oyonnax Rugby,46,6,Stade Aurillacois,1,0
+24,RC Massy Essonne,24,27,AS Béziers Hérault,1,0
+24,Soyaux-Angoulême XV,23,19,US Carcassonnaise,0,1
+24,CA Brive,45,14,Provence Rugby,1,0
+24,Biarritz Olympique PB,31,32,RC Vannes,1,0
+25,USON Nevers,28,31,CA Brive,1,0
+25,Oyonnax Rugby,45,10,RC Massy Essonne,1,0
+25,RC Vannes,28,11,Bourg-en-Bresse,1,0
+25,Stade Aurillacois,36,10,Provence Rugby,0,0
+25,US Carcassonnaise,11,9,Stade Montois Rugby,0,1
+25,US Montalbanaise,31,10,Soyaux-Angoulême XV,1,0
+25,Aviron Bayonnais,29,12,Colomiers Rugby,0,0
+25,AS Béziers Hérault,12,23,Biarritz Olympique PB,0,0
+26,Provence Rugby,23,17,USON Nevers,0,0
+26,Bourg-en-Bresse,31,6,Stade Aurillacois,1,0
+26,Colomiers Rugby,27,9,US Carcassonnaise,1,0
+26,RC Massy Essonne,19,22,US Montalbanaise,1,0
+26,RC Vannes,23,18,Aviron Bayonnais,0,1
+26,Soyaux-Angoulême XV,28,0,AS Béziers Hérault,1,0
+26,Biarritz Olympique PB,51,14,Oyonnax Rugby,1,0
+26,CA Brive,29,27,Stade Montois Rugby,0,1
+27,Aviron Bayonnais,14,19,Biarritz Olympique PB,1,0
+27,AS Béziers Hérault,20,19,Provence Rugby,0,1
+27,Colomiers Rugby,31,7,RC Massy Essonne,1,0
+27,Stade Aurillacois,14,11,CA Brive,0,1
+27,US Carcassonnaise,45,10,Bourg-en-Bresse,1,0
+27,US Montalbanaise,20,25,RC Vannes,1,0
+27,Oyonnax Rugby,30,22,USON Nevers,0,0
+27,Stade Montois Rugby,26,23,Soyaux-Angoulême XV,0,1
+28,USON Nevers,15,15,AS Béziers Hérault,0,0
+28,Biarritz Olympique PB,18,21,Colomiers Rugby,1,0
+28,Bourg-en-Bresse,25,20,US Montalbanaise,0,1
+28,CA Brive,54,17,US Carcassonnaise,1,0
+28,RC Massy Essonne,24,28,Stade Montois Rugby,1,0
+28,RC Vannes,25,5,Stade Aurillacois,0,0
+28,Soyaux-Angoulême XV,22,18,Aviron Bayonnais,0,1
+28,Provence Rugby,29,26,Oyonnax Rugby,0,1
+29,Oyonnax Rugby,10,22,CA Brive,0,0
+29,AS Béziers Hérault,27,23,RC Vannes,0,1
+29,Aviron Bayonnais,45,15,RC Massy Essonne,1,0
+29,Stade Aurillacois,16,17,Biarritz Olympique PB,1,0
+29,Stade Montois Rugby,48,22,Bourg-en-Bresse,1,0
+29,US Carcassonnaise,33,24,Provence Rugby,0,0
+29,US Montalbanaise,9,6,USON Nevers,0,1
+29,Colomiers Rugby,15,8,Soyaux-Angoulême XV,0,0
+30,Biarritz Olympique PB,62,21,US Montalbanaise,1,0
+30,Bourg-en-Bresse,27,6,AS Béziers Hérault,1,0
+30,CA Brive,20,18,Aviron Bayonnais,0,1
+30,Provence Rugby,27,8,Colomiers Rugby,0,0
+30,RC Massy Essonne,20,7,US Carcassonnaise,0,0
+30,RC Vannes,24,13,Stade Montois Rugby,0,0
+30,Soyaux-Angoulême XV,23,33,Oyonnax Rugby,0,0
+30,USON Nevers,28,26,Stade Aurillacois,0,1
