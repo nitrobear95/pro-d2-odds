@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import os
 
 def cumulative_table(season, round):
 
@@ -49,7 +50,7 @@ def cumulative_table(season, round):
     league_table['PD'] = league_table['Points Scored'] - league_table['Points Against']
     league_table = league_table[['Position', 'Team', 'Wins', 'Draws', 'Losses', 'Points Scored', 'Points Against', 'PD', 'Bonus Pts', 'Total Points']]
 
-    print(league_table.to_string(index=False))
+    return league_table.to_string(index=False)
 
 ### query a team's results in any set of gameweeks in a given season ###
 def team_query(team, season, round_end=30, round_start=1):
@@ -57,7 +58,7 @@ def team_query(team, season, round_end=30, round_start=1):
     df = pd.read_csv(f'{season}.csv')
 
     if not df['Home team'].isin([team]).any() and not df['Away team'].isin([team]).any():
-        print(f'Invalid team: Valid teams are {[team for team in df["Home team"][:8]]}{[team for team in df["Away team"][0:8]]}')
+        print(f'Invalid team: Valid teams are {[team for team in df["Home team"][:8]]+[team for team in df["Away team"][0:8]]}')
 
     if round_end > 30:
         print('Error: round number out of range')
@@ -67,7 +68,43 @@ def team_query(team, season, round_end=30, round_start=1):
     filtered_df = df[(df['Home team'].str.contains(team)) | (df['Away team'].str.contains(team))]
     filtered_df = filtered_df[(filtered_df['Round'] >= round_start) & (filtered_df['Round'] <= round_end)]
 
-    print(filtered_df)
+    # print(filtered_df)
+    return filtered_df
 
 # cumulative_table('2009-2010', 30)
 team_query('Auch', '2008-2009', 12, 5)
+
+def home_win_percentage(team):
+    seasons = ['2008-2009',
+               '2009-2010',
+               '2010-2011',
+               '2011-2012',
+               '2012-2013',
+               '2013-2014',
+               '2014-2015',
+               '2015-2016',
+               '2016-2017',
+               '2017-2018',
+               '2018-2019',
+               '2020-2021',
+               '2021-2022',
+               '2022-2023']
+    home_wins = 0
+    matches = 0
+    total_seasons = 0
+    for season in seasons:
+
+        df = pd.read_csv(f'{season}.csv')
+        filtered_df = df[df['Home team'].str.contains(team)]
+
+        if not filtered_df.empty:
+            total_seasons += 1
+            home_wins += (filtered_df['Home score'] > filtered_df['Away score']).sum()
+            matches += len(filtered_df)
+
+    win_percentage = (home_wins / matches) * 100
+
+    print(f'{team} won {win_percentage:.2f}% ofthe time at home over {total_seasons} seasons')
+    return win_percentage
+
+home_win_percentage('Grenoble')
