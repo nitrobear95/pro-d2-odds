@@ -1,8 +1,9 @@
+#!/usr/bin/env python3
 import numpy as np
 import pandas as pd
 import os
 
-def cumulative_table(season, round):
+def cumulative_table(season, round: int):
 
     ### open csv and put in df ###
     if not 1 <= round <= 30:
@@ -50,10 +51,14 @@ def cumulative_table(season, round):
     league_table['PD'] = league_table['Points Scored'] - league_table['Points Against']
     league_table = league_table[['Position', 'Team', 'Wins', 'Draws', 'Losses', 'Points Scored', 'Points Against', 'PD', 'Bonus Pts', 'Total Points']]
 
+    # print(league_table.to_string(index=False))
     return league_table.to_string(index=False)
 
 ### query a team's results in any set of gameweeks in a given season ###
 def team_query(team, season, round_end=30, round_start=1):
+    """
+    query a team's blah blah blah
+    """
 
     df = pd.read_csv(f'{season}.csv')
 
@@ -70,9 +75,6 @@ def team_query(team, season, round_end=30, round_start=1):
 
     # print(filtered_df)
     return filtered_df
-
-# cumulative_table('2009-2010', 30)
-team_query('Auch', '2008-2009', 12, 5)
 
 def home_win_percentage(team):
     seasons = ['2008-2009',
@@ -104,7 +106,13 @@ def home_win_percentage(team):
 
     win_percentage = (home_wins / matches) * 100
 
-    print(f'{team} won {win_percentage:.2f}% ofthe time at home over {total_seasons} seasons')
+    # print(f'{team} won {win_percentage:.2f}% ofthe time at home over {total_seasons} seasons')
     return win_percentage
 
-home_win_percentage('Grenoble')
+def main():
+    cumulative_table('2008-2009', 25)
+    team_query('Auch', '2008-2009', 12, 5)
+    home_win_percentage('Auch')
+
+if __name__ == '__main__':
+    main()
